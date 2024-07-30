@@ -1,0 +1,185 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: none;
+    text-decoration: none;
+
+}
+
+header {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.logo-header{
+    display: inline-block;
+    width: 54px;
+}
+
+.link-header {
+    display: inline-block;
+    margin-left: 80px;
+    position: absolute;
+    margin-top: 23px;
+
+
+}
+
+.link {
+    margin-right: 70px;
+    color: hsl(0, 0%, 0%);
+    font-size: 22px;
+
+}
+
+.span-link {
+    text-decoration: underline;
+    
+}
+
+.call {
+    display: inline-block;
+    position: absolute;
+    margin-left: 1300px;
+    margin-top: 28px; 
+    
+
+}
+
+.call-top {
+    color: #ff0000;
+    font-size: 24px;
+}
+
+.main {
+    width: 100vw;
+    height: 70vh;
+    margin-top: 15px;
+
+}
+
+
+
+.section-text {
+    display: inline-block;
+    width: 40%;
+    margin-left: 138px;
+    margin-top: 110px;
+    
+}
+
+.there {
+    font-size: 38px;
+    font-weight: 300;
+
+}
+
+h1 {
+    display: inline-block;
+    font-size: 110px;
+    font-weight: bold;
+}
+
+.span-h1 {
+    color: #eb0a42;
+}
+
+.h2 {
+    font-size: 52px;
+    height:56px;
+    font-weight: 800;
+}
+
+.h3 {
+    font-size: 40px;
+    margin-bottom: 48px;
+    font-weight: 400;
+}
+
+button {
+    background: #eb0a42;
+    width: 260px;
+    height: 60px;
+    border: none;
+    font-size: 24px;
+    color: #f5f5dc;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.section-img {
+    display: inline-block;
+    position: absolute;
+    margin-top: 10px;
+       
+    
+}
+
+.img-main {
+    width: 650px;
+    height: 700px;
+    
+}
+
+.icon {
+    display: inline-block;
+    position: absolute;
+    margin-left: 20px;
+    font-size: 30px;
+    
+}
+
+.dados {
+    display: inline-block;
+    position: absolute;
+    margin-left: 100px;
+
+}
+
+.dados-top {
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-weight: 700;
+
+
+}
+
+.email {
+    color: #000;
+}
+
+.phone {
+    color: #000;
+    margin-left: 160px;
+    margin-right: 130px;
+    
+}
+
+.location {
+    color: #000;
+
+}
+
+.dados-botton {
+    font-size: 20px;
+
+}
+
+.email1 {
+    color: #000;
+
+}
+
+.phone2 {
+    color: #000;
+    margin-left: 50px;
+    margin-right: 40px;
+}
+
+.location3 {
+    color: #000;
+
+}
+
+
